@@ -66,8 +66,8 @@
 │
 ├── 🎤 INTERVIEW PREP (08-INTERVIEW-PREP/)
 │   ├── 01-BEHAVIORAL.md                 # STAR method, 8 core stories
-│   ├── 02-SYSTEM-DESIGN.md              # 6-step framework, 10 designs
-│   ├── 03-CODING-PATTERNS.md            # 11 patterns, 100+ templates
+│   ├── 02-SYSTEM-DESIGN.md              # Book-level guide: framework, building blocks, 4 deep designs
+│   ├── 03-CODING-PATTERNS.md            # Book-level guide: 20+ patterns w/ why/how, decision tree, anti-patterns
 │   ├── 04-NEGOTIATION.md                # Scripts, equity, leverage
 │   └── 05-MOCK-INTERVIEWS.md            # Rubrics, schedule, templates
 │
